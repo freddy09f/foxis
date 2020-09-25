@@ -1,4 +1,9 @@
 body{
-  background-color: blue;
-  color: red;
-  }
+    background-color: rgb(37, 37, 37);
+}
+h1{
+    color: white;
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 7px;
+}
